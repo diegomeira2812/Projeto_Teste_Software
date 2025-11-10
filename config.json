@@ -1,0 +1,4 @@
+{
+  "db_path": "stockmaster.db",
+  "log_file": "stockmaster.log"
+}
