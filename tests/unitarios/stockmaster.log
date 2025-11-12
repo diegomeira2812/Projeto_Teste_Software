@@ -1,0 +1,10 @@
+2025-11-10 18:34:40,215 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-10 18:34:40,277 - INFO - Produto 1 atualizado com nova quantidade: 80
+2025-11-10 18:36:00,378 - INFO - Fornecedor 'Papelaria Silva' cadastrado com sucesso.
+2025-11-10 18:36:01,011 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-10 18:36:01,183 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-10 18:36:01,445 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-10 18:36:01,542 - INFO - Produto 1 atualizado com nova quantidade: 80
+2025-11-10 18:36:01,820 - INFO - Produto 'Lápis' adicionado com sucesso.
+2025-11-10 18:36:01,928 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-10 18:36:01,928 - INFO - Valor total do estoque calculado: R$ 600.00
