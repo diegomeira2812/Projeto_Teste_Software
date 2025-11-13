@@ -1,6 +1,6 @@
 # Stock Master
 
-## Integrantes 
+## Integrantes
 
 | Nome | RA |
 | ------------------------------ | ------------ |
