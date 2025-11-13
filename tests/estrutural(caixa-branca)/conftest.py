@@ -1,10 +1,10 @@
-# tests/conftest.py
 import sys, os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
 
 import pytest
 import sqlite3
 from utils.db_connection import get_connection
+
 
 
 

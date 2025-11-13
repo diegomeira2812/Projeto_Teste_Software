@@ -2,6 +2,30 @@
 import pytest
 
 from services.produto_service import ProdutoService
+from services.fornecedor_service import FornecedorService
+
+def test_adicionar_e_listar_fornecedor():
+    """Garante que o cadastro e listagem de fornecedores funciona."""
+    service = FornecedorService()
+    service.adicionar_fornecedor("Fornecedor Teste", "11999999999", "12345678000100")
+    lista = service.listar_fornecedores()
+    assert any(f.nome == "Fornecedor Teste" for f in lista)
+
+def test_calcular_valor_total_com_produtos():
+    """Testa o cálculo de valor total com produtos adicionados."""
+    service = ProdutoService()
+    service.adicionar_produto("ProdutoA", "Eletrônicos", 10.0, 2, 1)
+    service.adicionar_produto("ProdutoB", "Eletrônicos", 20.0, 3, 1)
+    total = service.calcular_valor_total()
+    assert total >= 80.0  # 10*2 + 20*3 = 80
+    assert isinstance(total, (int, float))
+
+def test_buscar_por_categoria_existente():
+    """Busca categoria existente deve retornar produtos."""
+    service = ProdutoService()
+    service.adicionar_produto("ProdutoCat", "Informática", 50.0, 1, 1)
+    encontrados = service.buscar_por_categoria("Informática")
+    assert any(p.categoria == "Informática" for p in encontrados)
 
 def test_adicionar_produto_preco_negativo_levanta():
     service = ProdutoService()

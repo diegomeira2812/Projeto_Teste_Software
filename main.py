@@ -9,6 +9,7 @@ def menu_principal():
     print("1. Gerenciar Produtos")
     print("2. Gerenciar Fornecedores")
     print("3. Relatórios")
+    print("4. Adicionar Fornecedor")
     print("0. Sair")
 
 def menu_produtos():
@@ -75,7 +76,8 @@ def main():
 
         elif opcao == "3":
             total = produto_service.calcular_valor_total()
-            print(f"Valor total do estoque: R$ {total:.2f}")
+            print(f"Valor total do estoque: R$ {total:.2f}")         
+
 
         elif opcao == "0":
             print("Saindo do sistema...")

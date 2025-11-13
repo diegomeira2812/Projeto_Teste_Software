@@ -17,3 +17,5 @@ class FornecedorService:
             raise ValueError("Nome e CNPJ são obrigatórios.")
         self.repo.inserir(nome, contato, cnpj)
         logger.info(f"Fornecedor '{nome}' cadastrado com sucesso.")
+        
+
