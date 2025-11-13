@@ -1,1 +1,328 @@
 2025-11-09 22:59:02,359 - INFO - Produto 'vagem' adicionado com sucesso.
+2025-11-10 18:05:20,110 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-10 18:05:20,198 - INFO - Produto 1 atualizado com nova quantidade: 80
+2025-11-12 22:54:03,940 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 22:54:04,089 - INFO - Produto 'Item' adicionado com sucesso.
+2025-11-12 22:54:04,340 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 22:54:05,157 - INFO - Fornecedor 'Fornecedor ABC' cadastrado com sucesso.
+2025-11-12 22:54:05,266 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 22:54:05,733 - INFO - Produto 'Teclado' adicionado com sucesso.
+2025-11-12 22:54:05,840 - INFO - Produto 1 atualizado com nova quantidade: 15
+2025-11-12 22:54:05,941 - INFO - Produto 1 removido do sistema.
+2025-11-12 22:54:06,275 - INFO - Produto 'Monitor' adicionado com sucesso.
+2025-11-12 22:54:06,375 - INFO - Produto 'HD Externo' adicionado com sucesso.
+2025-11-12 22:54:06,376 - INFO - Valor total do estoque calculado: R$ 9000.00
+2025-11-12 22:54:08,292 - INFO - Fornecedor 'Papelaria Silva' cadastrado com sucesso.
+2025-11-12 22:54:09,017 - INFO - Fornecedor 'Fornecedor X' cadastrado com sucesso.
+2025-11-12 22:54:13,911 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 22:54:14,179 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 22:54:14,494 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-12 22:54:14,575 - INFO - Produto 1 atualizado com nova quantidade: 80
+2025-11-12 22:54:14,911 - INFO - Produto 'Lápis' adicionado com sucesso.
+2025-11-12 22:54:15,018 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 22:54:15,019 - INFO - Valor total do estoque calculado: R$ 600.00
+2025-11-12 22:54:15,253 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 22:54:15,636 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 22:54:16,604 - INFO - Valor total do estoque calculado: R$ 0.00
+2025-11-12 22:54:17,062 - INFO - Produto 'Cabo HDMI' adicionado com sucesso.
+2025-11-12 22:58:12,459 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 22:58:12,464 - INFO - Produto 'Item' adicionado com sucesso.
+2025-11-12 22:58:12,484 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 22:58:12,543 - INFO - Fornecedor 'Fornecedor ABC' cadastrado com sucesso.
+2025-11-12 22:58:12,556 - INFO - Produto 'Teclado' adicionado com sucesso.
+2025-11-12 22:58:12,568 - INFO - Produto 'Monitor' adicionado com sucesso.
+2025-11-12 22:58:12,569 - INFO - Produto 'HD Externo' adicionado com sucesso.
+2025-11-12 22:58:12,569 - INFO - Valor total do estoque calculado: R$ 0.00
+2025-11-12 22:58:12,623 - INFO - Fornecedor 'Papelaria Silva' cadastrado com sucesso.
+2025-11-12 22:58:12,645 - INFO - Fornecedor 'Fornecedor X' cadastrado com sucesso.
+2025-11-12 22:58:12,753 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 22:58:12,767 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 22:58:12,771 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-12 22:58:12,784 - INFO - Produto 'Lápis' adicionado com sucesso.
+2025-11-12 22:58:12,785 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 22:58:12,785 - INFO - Valor total do estoque calculado: R$ 0.00
+2025-11-12 22:58:12,798 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 22:58:12,803 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 22:58:12,825 - INFO - Valor total do estoque calculado: R$ 0.00
+2025-11-12 22:58:12,831 - INFO - Produto 'Cabo HDMI' adicionado com sucesso.
+2025-11-12 22:59:01,444 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 22:59:01,584 - INFO - Produto 'Item' adicionado com sucesso.
+2025-11-12 22:59:01,818 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 22:59:02,753 - INFO - Fornecedor 'Fornecedor ABC' cadastrado com sucesso.
+2025-11-12 22:59:02,860 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 22:59:03,285 - INFO - Produto 'Teclado' adicionado com sucesso.
+2025-11-12 22:59:03,386 - INFO - Produto 1 atualizado com nova quantidade: 15
+2025-11-12 22:59:03,518 - INFO - Produto 1 removido do sistema.
+2025-11-12 22:59:03,820 - INFO - Produto 'Monitor' adicionado com sucesso.
+2025-11-12 22:59:03,978 - INFO - Produto 'HD Externo' adicionado com sucesso.
+2025-11-12 22:59:03,979 - INFO - Valor total do estoque calculado: R$ 9000.00
+2025-11-12 22:59:04,779 - INFO - Fornecedor 'Papelaria Silva' cadastrado com sucesso.
+2025-11-12 22:59:04,928 - INFO - Fornecedor 'Fornecedor X' cadastrado com sucesso.
+2025-11-12 22:59:06,271 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 22:59:06,284 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 22:59:06,396 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-12 22:59:06,504 - INFO - Produto 1 atualizado com nova quantidade: 80
+2025-11-12 22:59:06,612 - INFO - Produto 'Lápis' adicionado com sucesso.
+2025-11-12 22:59:06,798 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 22:59:06,799 - INFO - Valor total do estoque calculado: R$ 1680.00
+2025-11-12 22:59:06,811 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 22:59:06,921 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 22:59:06,933 - INFO - Valor total do estoque calculado: R$ 1680.00
+2025-11-12 22:59:07,063 - INFO - Produto 'Cabo HDMI' adicionado com sucesso.
+2025-11-12 23:00:37,688 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:00:37,693 - INFO - Produto 'Item' adicionado com sucesso.
+2025-11-12 23:00:37,712 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:00:37,768 - INFO - Fornecedor 'Fornecedor ABC' cadastrado com sucesso.
+2025-11-12 23:00:37,780 - INFO - Produto 'Teclado' adicionado com sucesso.
+2025-11-12 23:00:37,793 - INFO - Produto 'Monitor' adicionado com sucesso.
+2025-11-12 23:00:37,794 - INFO - Produto 'HD Externo' adicionado com sucesso.
+2025-11-12 23:00:37,794 - INFO - Valor total do estoque calculado: R$ 0.00
+2025-11-12 23:00:37,842 - INFO - Fornecedor 'Papelaria Silva' cadastrado com sucesso.
+2025-11-12 23:00:37,860 - INFO - Fornecedor 'Fornecedor X' cadastrado com sucesso.
+2025-11-12 23:00:37,953 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:00:37,964 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:00:37,968 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-12 23:00:37,979 - INFO - Produto 'Lápis' adicionado com sucesso.
+2025-11-12 23:00:37,980 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:00:37,980 - INFO - Valor total do estoque calculado: R$ 0.00
+2025-11-12 23:00:37,992 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:00:37,996 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 23:00:38,014 - INFO - Valor total do estoque calculado: R$ 0.00
+2025-11-12 23:00:38,017 - INFO - Produto 'Cabo HDMI' adicionado com sucesso.
+2025-11-12 23:05:02,576 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:05:02,580 - INFO - Produto 'Item' adicionado com sucesso.
+2025-11-12 23:05:02,598 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:05:02,652 - INFO - Fornecedor 'Fornecedor ABC' cadastrado com sucesso.
+2025-11-12 23:05:02,664 - INFO - Produto 'Teclado' adicionado com sucesso.
+2025-11-12 23:05:02,678 - INFO - Produto 'Monitor' adicionado com sucesso.
+2025-11-12 23:05:02,679 - INFO - Produto 'HD Externo' adicionado com sucesso.
+2025-11-12 23:05:02,679 - INFO - Valor total do estoque calculado: R$ 0.00
+2025-11-12 23:05:02,729 - INFO - Fornecedor 'Papelaria Silva' cadastrado com sucesso.
+2025-11-12 23:05:02,747 - INFO - Fornecedor 'Fornecedor X' cadastrado com sucesso.
+2025-11-12 23:05:02,840 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:05:02,852 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:05:02,856 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-12 23:05:02,867 - INFO - Produto 'Lápis' adicionado com sucesso.
+2025-11-12 23:05:02,868 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:05:02,869 - INFO - Valor total do estoque calculado: R$ 0.00
+2025-11-12 23:05:02,881 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:05:02,885 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 23:05:02,904 - INFO - Valor total do estoque calculado: R$ 0.00
+2025-11-12 23:05:02,907 - INFO - Produto 'Cabo HDMI' adicionado com sucesso.
+2025-11-12 23:08:22,954 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:08:23,038 - INFO - Produto 'Item' adicionado com sucesso.
+2025-11-12 23:08:23,179 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:08:24,154 - INFO - Fornecedor 'Fornecedor ABC' cadastrado com sucesso.
+2025-11-12 23:08:24,247 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 23:08:24,839 - INFO - Produto 'Teclado' adicionado com sucesso.
+2025-11-12 23:08:24,939 - INFO - Produto 1 atualizado com nova quantidade: 15
+2025-11-12 23:08:25,039 - INFO - Produto 1 removido do sistema.
+2025-11-12 23:08:25,498 - INFO - Produto 'Monitor' adicionado com sucesso.
+2025-11-12 23:08:25,613 - INFO - Produto 'HD Externo' adicionado com sucesso.
+2025-11-12 23:08:25,614 - INFO - Valor total do estoque calculado: R$ 9000.00
+2025-11-12 23:08:27,037 - INFO - Fornecedor 'Papelaria Silva' cadastrado com sucesso.
+2025-11-12 23:08:27,782 - INFO - Fornecedor 'Fornecedor X' cadastrado com sucesso.
+2025-11-12 23:08:31,074 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:08:31,433 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:08:31,833 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-12 23:08:31,915 - INFO - Produto 1 atualizado com nova quantidade: 80
+2025-11-12 23:08:32,183 - INFO - Produto 'Lápis' adicionado com sucesso.
+2025-11-12 23:08:32,341 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:08:32,342 - INFO - Valor total do estoque calculado: R$ 600.00
+2025-11-12 23:08:32,574 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:08:32,866 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 23:08:33,584 - INFO - Valor total do estoque calculado: R$ 0.00
+2025-11-12 23:08:33,978 - INFO - Produto 'Cabo HDMI' adicionado com sucesso.
+2025-11-12 23:08:43,995 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:08:44,095 - INFO - Produto 'Item' adicionado com sucesso.
+2025-11-12 23:08:44,187 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:08:44,971 - INFO - Fornecedor 'Fornecedor ABC' cadastrado com sucesso.
+2025-11-12 23:08:45,037 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 23:08:45,413 - INFO - Produto 'Teclado' adicionado com sucesso.
+2025-11-12 23:08:45,571 - INFO - Produto 1 atualizado com nova quantidade: 15
+2025-11-12 23:08:45,639 - INFO - Produto 1 removido do sistema.
+2025-11-12 23:08:46,030 - INFO - Produto 'Monitor' adicionado com sucesso.
+2025-11-12 23:08:46,105 - INFO - Produto 'HD Externo' adicionado com sucesso.
+2025-11-12 23:08:46,106 - INFO - Valor total do estoque calculado: R$ 9000.00
+2025-11-12 23:08:47,640 - INFO - Fornecedor 'Papelaria Silva' cadastrado com sucesso.
+2025-11-12 23:08:48,499 - INFO - Fornecedor 'Fornecedor X' cadastrado com sucesso.
+2025-11-12 23:08:51,741 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:08:51,924 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:08:52,366 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-12 23:08:52,440 - INFO - Produto 1 atualizado com nova quantidade: 80
+2025-11-12 23:08:52,907 - INFO - Produto 'Lápis' adicionado com sucesso.
+2025-11-12 23:08:52,983 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:08:52,984 - INFO - Valor total do estoque calculado: R$ 600.00
+2025-11-12 23:08:53,184 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:08:53,500 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 23:08:54,067 - INFO - Valor total do estoque calculado: R$ 0.00
+2025-11-12 23:08:54,475 - INFO - Produto 'Cabo HDMI' adicionado com sucesso.
+2025-11-12 23:09:41,421 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:09:41,426 - INFO - Produto 'Item' adicionado com sucesso.
+2025-11-12 23:09:41,445 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:09:41,501 - INFO - Fornecedor 'Fornecedor ABC' cadastrado com sucesso.
+2025-11-12 23:09:41,516 - INFO - Produto 'Teclado' adicionado com sucesso.
+2025-11-12 23:09:41,528 - INFO - Produto 'Monitor' adicionado com sucesso.
+2025-11-12 23:09:41,529 - INFO - Produto 'HD Externo' adicionado com sucesso.
+2025-11-12 23:09:41,529 - INFO - Valor total do estoque calculado: R$ 0.00
+2025-11-12 23:09:41,580 - INFO - Fornecedor 'Papelaria Silva' cadastrado com sucesso.
+2025-11-12 23:09:41,601 - INFO - Fornecedor 'Fornecedor X' cadastrado com sucesso.
+2025-11-12 23:09:41,740 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:09:41,752 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:09:41,757 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-12 23:09:41,770 - INFO - Produto 'Lápis' adicionado com sucesso.
+2025-11-12 23:09:41,770 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:09:41,771 - INFO - Valor total do estoque calculado: R$ 0.00
+2025-11-12 23:09:41,783 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:09:41,787 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 23:09:41,807 - INFO - Valor total do estoque calculado: R$ 0.00
+2025-11-12 23:09:41,812 - INFO - Produto 'Cabo HDMI' adicionado com sucesso.
+2025-11-12 23:10:43,436 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:10:43,547 - INFO - Produto 'Item' adicionado com sucesso.
+2025-11-12 23:10:43,664 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:10:44,639 - INFO - Fornecedor 'Fornecedor ABC' cadastrado com sucesso.
+2025-11-12 23:10:44,739 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 23:10:45,256 - INFO - Produto 'Teclado' adicionado com sucesso.
+2025-11-12 23:10:45,356 - INFO - Produto 1 atualizado com nova quantidade: 15
+2025-11-12 23:10:45,464 - INFO - Produto 1 removido do sistema.
+2025-11-12 23:10:45,878 - INFO - Produto 'Monitor' adicionado com sucesso.
+2025-11-12 23:10:45,956 - INFO - Produto 'HD Externo' adicionado com sucesso.
+2025-11-12 23:10:45,957 - INFO - Valor total do estoque calculado: R$ 9000.00
+2025-11-12 23:10:47,396 - INFO - Fornecedor 'Papelaria Silva' cadastrado com sucesso.
+2025-11-12 23:10:48,000 - INFO - Fornecedor 'Fornecedor X' cadastrado com sucesso.
+2025-11-12 23:10:51,556 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:10:51,799 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:10:52,190 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-12 23:10:52,264 - INFO - Produto 1 atualizado com nova quantidade: 80
+2025-11-12 23:10:52,516 - INFO - Produto 'Lápis' adicionado com sucesso.
+2025-11-12 23:10:52,589 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:10:52,590 - INFO - Valor total do estoque calculado: R$ 600.00
+2025-11-12 23:10:52,766 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:10:53,066 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 23:10:53,699 - INFO - Valor total do estoque calculado: R$ 0.00
+2025-11-12 23:10:53,975 - INFO - Produto 'Cabo HDMI' adicionado com sucesso.
+2025-11-12 23:23:26,361 - INFO - Fornecedor 'Fornecedor XYZ' cadastrado com sucesso.
+2025-11-12 23:23:26,961 - INFO - Fornecedor 'Fornecedor Link' cadastrado com sucesso.
+2025-11-12 23:23:27,077 - INFO - Produto 'Webcam' adicionado com sucesso.
+2025-11-12 23:23:27,553 - INFO - Fornecedor 'F1' cadastrado com sucesso.
+2025-11-12 23:23:27,653 - INFO - Produto 'Produto A' adicionado com sucesso.
+2025-11-12 23:23:27,753 - INFO - Produto 'Produto B' adicionado com sucesso.
+2025-11-12 23:23:27,853 - INFO - Produto 'Produto C' adicionado com sucesso.
+2025-11-12 23:23:28,405 - INFO - Produto 'Cabo USB' adicionado com sucesso.
+2025-11-12 23:23:28,495 - INFO - Produto 1 atualizado com nova quantidade: 8
+2025-11-12 23:23:28,596 - INFO - Produto 1 atualizado com nova quantidade: 3
+2025-11-12 23:23:28,987 - INFO - Produto 'SSD' adicionado com sucesso.
+2025-11-12 23:23:29,086 - INFO - Produto 'Fonte' adicionado com sucesso.
+2025-11-12 23:23:29,087 - INFO - Valor total do estoque calculado: R$ 850.00
+2025-11-12 23:23:29,662 - INFO - Produto 'Item X' adicionado com sucesso.
+2025-11-12 23:23:29,762 - INFO - Produto 'Item Y' adicionado com sucesso.
+2025-11-12 23:23:29,862 - INFO - Produto 1 removido do sistema.
+2025-11-12 23:24:21,415 - INFO - Fornecedor 'Fornecedor ABC' cadastrado com sucesso.
+2025-11-12 23:24:21,532 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 23:24:22,057 - INFO - Produto 'Teclado' adicionado com sucesso.
+2025-11-12 23:24:22,184 - INFO - Produto 1 atualizado com nova quantidade: 15
+2025-11-12 23:24:22,265 - INFO - Produto 1 removido do sistema.
+2025-11-12 23:24:22,866 - INFO - Fornecedor 'Fornecedor XYZ' cadastrado com sucesso.
+2025-11-12 23:24:23,307 - INFO - Fornecedor 'Fornecedor Link' cadastrado com sucesso.
+2025-11-12 23:24:23,393 - INFO - Produto 'Webcam' adicionado com sucesso.
+2025-11-12 23:24:23,941 - INFO - Fornecedor 'F1' cadastrado com sucesso.
+2025-11-12 23:24:24,041 - INFO - Produto 'Produto A' adicionado com sucesso.
+2025-11-12 23:24:24,150 - INFO - Produto 'Produto B' adicionado com sucesso.
+2025-11-12 23:24:24,250 - INFO - Produto 'Produto C' adicionado com sucesso.
+2025-11-12 23:24:24,758 - INFO - Produto 'Cabo USB' adicionado com sucesso.
+2025-11-12 23:24:24,910 - INFO - Produto 1 atualizado com nova quantidade: 8
+2025-11-12 23:24:25,052 - INFO - Produto 1 atualizado com nova quantidade: 3
+2025-11-12 23:24:25,575 - INFO - Produto 'SSD' adicionado com sucesso.
+2025-11-12 23:24:25,660 - INFO - Produto 'Fonte' adicionado com sucesso.
+2025-11-12 23:24:25,661 - INFO - Valor total do estoque calculado: R$ 850.00
+2025-11-12 23:24:26,092 - INFO - Produto 'Item X' adicionado com sucesso.
+2025-11-12 23:24:26,177 - INFO - Produto 'Item Y' adicionado com sucesso.
+2025-11-12 23:24:26,319 - INFO - Produto 1 removido do sistema.
+2025-11-12 23:24:26,801 - INFO - Produto 'Monitor' adicionado com sucesso.
+2025-11-12 23:24:26,877 - INFO - Produto 'HD Externo' adicionado com sucesso.
+2025-11-12 23:24:26,878 - INFO - Valor total do estoque calculado: R$ 9000.00
+2025-11-12 23:31:15,459 - INFO - Fornecedor 'Fornecedor Func' cadastrado com sucesso.
+2025-11-12 23:31:15,559 - INFO - Fornecedor 'F Func' cadastrado com sucesso.
+2025-11-12 23:31:15,676 - INFO - Produto 'Lápis' adicionado com sucesso.
+2025-11-12 23:31:15,826 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:31:15,925 - INFO - Fornecedor 'F Buscas' cadastrado com sucesso.
+2025-11-12 23:31:16,026 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-12 23:31:16,134 - INFO - Produto 'Borracha' adicionado com sucesso.
+2025-11-12 23:31:16,234 - INFO - Fornecedor 'F Atualiza' cadastrado com sucesso.
+2025-11-12 23:31:16,351 - INFO - Produto 'Apontador' adicionado com sucesso.
+2025-11-12 23:31:16,459 - INFO - Produto 1 atualizado com nova quantidade: 25
+2025-11-12 23:31:16,559 - INFO - Fornecedor 'F Remove' cadastrado com sucesso.
+2025-11-12 23:31:16,676 - INFO - Produto 'Tesoura' adicionado com sucesso.
+2025-11-12 23:31:16,769 - INFO - Produto 1 removido do sistema.
+2025-11-12 23:36:24,020 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:36:24,130 - INFO - Produto 'ItemSemForn' adicionado com sucesso.
+2025-11-12 23:36:24,162 - INFO - Valor total do estoque calculado: R$ 4480.00
+2025-11-12 23:36:24,180 - INFO - Produto 99999 atualizado com nova quantidade: 5
+2025-11-12 23:36:24,282 - INFO - Fornecedor 'F Teste' cadastrado com sucesso.
+2025-11-12 23:36:24,389 - INFO - Produto 'ItemNoop' adicionado com sucesso.
+2025-11-12 23:36:24,489 - INFO - Produto 2 atualizado com nova quantidade: 7
+2025-11-12 23:36:24,494 - INFO - Produto 99999 removido do sistema.
+2025-11-12 23:36:24,607 - INFO - Fornecedor 'Fornecedor Func' cadastrado com sucesso.
+2025-11-12 23:36:24,730 - INFO - Fornecedor 'F Func' cadastrado com sucesso.
+2025-11-12 23:36:24,831 - INFO - Produto 'Lápis' adicionado com sucesso.
+2025-11-12 23:36:24,966 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:36:25,164 - INFO - Fornecedor 'F Buscas' cadastrado com sucesso.
+2025-11-12 23:36:25,256 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-12 23:36:25,372 - INFO - Produto 'Borracha' adicionado com sucesso.
+2025-11-12 23:36:25,489 - INFO - Fornecedor 'F Atualiza' cadastrado com sucesso.
+2025-11-12 23:36:25,589 - INFO - Produto 'Apontador' adicionado com sucesso.
+2025-11-12 23:36:25,689 - INFO - Produto 2 atualizado com nova quantidade: 25
+2025-11-12 23:36:25,789 - INFO - Fornecedor 'F Remove' cadastrado com sucesso.
+2025-11-12 23:36:25,964 - INFO - Produto 'Tesoura' adicionado com sucesso.
+2025-11-12 23:36:26,064 - INFO - Produto 2 removido do sistema.
+2025-11-12 23:36:26,956 - INFO - Fornecedor 'Fornecedor ABC' cadastrado com sucesso.
+2025-11-12 23:36:27,033 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 23:36:27,482 - INFO - Produto 'Teclado' adicionado com sucesso.
+2025-11-12 23:36:27,582 - INFO - Produto 1 atualizado com nova quantidade: 15
+2025-11-12 23:36:27,703 - INFO - Produto 1 removido do sistema.
+2025-11-12 23:36:28,290 - INFO - Fornecedor 'Fornecedor XYZ' cadastrado com sucesso.
+2025-11-12 23:36:28,974 - INFO - Fornecedor 'Fornecedor Link' cadastrado com sucesso.
+2025-11-12 23:36:29,099 - INFO - Produto 'Webcam' adicionado com sucesso.
+2025-11-12 23:36:29,599 - INFO - Fornecedor 'F1' cadastrado com sucesso.
+2025-11-12 23:36:29,734 - INFO - Produto 'Produto A' adicionado com sucesso.
+2025-11-12 23:36:29,807 - INFO - Produto 'Produto B' adicionado com sucesso.
+2025-11-12 23:36:29,884 - INFO - Produto 'Produto C' adicionado com sucesso.
+2025-11-12 23:36:30,274 - INFO - Produto 'Cabo USB' adicionado com sucesso.
+2025-11-12 23:36:30,393 - INFO - Produto 1 atualizado com nova quantidade: 8
+2025-11-12 23:36:30,491 - INFO - Produto 1 atualizado com nova quantidade: 3
+2025-11-12 23:36:31,025 - INFO - Produto 'SSD' adicionado com sucesso.
+2025-11-12 23:36:31,116 - INFO - Produto 'Fonte' adicionado com sucesso.
+2025-11-12 23:36:31,117 - INFO - Valor total do estoque calculado: R$ 850.00
+2025-11-12 23:36:31,575 - INFO - Produto 'Item X' adicionado com sucesso.
+2025-11-12 23:36:31,666 - INFO - Produto 'Item Y' adicionado com sucesso.
+2025-11-12 23:36:31,771 - INFO - Produto 1 removido do sistema.
+2025-11-12 23:36:32,367 - INFO - Produto 'Monitor' adicionado com sucesso.
+2025-11-12 23:36:32,458 - INFO - Produto 'HD Externo' adicionado com sucesso.
+2025-11-12 23:36:32,459 - INFO - Valor total do estoque calculado: R$ 9000.00
+2025-11-12 23:36:34,140 - INFO - Fornecedor 'Papelaria Silva' cadastrado com sucesso.
+2025-11-12 23:36:34,937 - INFO - Fornecedor 'Fornecedor X' cadastrado com sucesso.
+2025-11-12 23:36:38,689 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:36:38,921 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:36:39,233 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-12 23:36:39,296 - INFO - Produto 1 atualizado com nova quantidade: 80
+2025-11-12 23:36:39,508 - INFO - Produto 'Lápis' adicionado com sucesso.
+2025-11-12 23:36:39,697 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 23:36:39,698 - INFO - Valor total do estoque calculado: R$ 600.00
+2025-11-12 23:36:40,042 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:36:40,567 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 23:36:41,340 - INFO - Valor total do estoque calculado: R$ 0.00
+2025-11-12 23:36:41,800 - INFO - Produto 'Cabo HDMI' adicionado com sucesso.
+2025-11-12 23:37:42,438 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:37:42,556 - INFO - Produto 'ItemSemForn' adicionado com sucesso.
+2025-11-12 23:37:42,648 - INFO - Valor total do estoque calculado: R$ 10.00
+2025-11-12 23:37:42,660 - INFO - Produto 99999 atualizado com nova quantidade: 5
+2025-11-12 23:37:42,834 - INFO - Fornecedor 'F Teste' cadastrado com sucesso.
+2025-11-12 23:37:42,956 - INFO - Produto 'ItemNoop' adicionado com sucesso.
+2025-11-12 23:37:43,046 - INFO - Produto 1 atualizado com nova quantidade: 7
+2025-11-12 23:37:43,049 - INFO - Produto 99999 removido do sistema.
+2025-11-12 23:40:01,819 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 23:40:01,822 - WARNING - Tentativa de adicionar produto com fornecedor inexistente: 99999
+2025-11-12 23:40:01,825 - INFO - Valor total do estoque calculado: R$ 105.00
+2025-11-12 23:40:02,037 - INFO - Fornecedor 'F Teste' cadastrado com sucesso.
+2025-11-12 23:40:02,137 - INFO - Produto 'ItemNoop' adicionado com sucesso.
+2025-11-12 23:40:02,138 - INFO - Produto 1 atualizado com nova quantidade: 7

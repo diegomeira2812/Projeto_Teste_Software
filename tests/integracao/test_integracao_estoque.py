@@ -1,6 +1,9 @@
 # tests/test_integracao_estoque.py
 from services.produto_service import ProdutoService
 from services.fornecedor_service import FornecedorService
+import pytest
+
+pytestmark = pytest.mark.integration
 
 def test_fluxo_completo_de_cadastro_e_busca():
     fornecedor_service = FornecedorService()

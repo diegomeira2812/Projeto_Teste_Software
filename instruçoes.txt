@@ -1,0 +1,26 @@
+# Criar ambiente virtual
+python -m venv venv
+
+# Windows
+venv\Scripts\activate   
+
+# Instalar dependências
+pip install -r requirements.txt
+
+pytest -v
+
+"caixa branca"
+pip install pytest pytest-cov
+
+"Comando principal para rodar todos os testes e gerar relatório"
+pytest --cov=. --cov-report=term-missing --cov-report=html
+"gera uma pasta htmlcov/ com um relatório visual em index.html, mostrando exatamente quais linhas foram cobertas"
+
+Rode:
+mutmut run
+
+Para visualizar o resumo:
+mutmut results
+
+E para listar os mutantes sobreviventes (não mortos pelos testes):
+mutmut results --show-mutants

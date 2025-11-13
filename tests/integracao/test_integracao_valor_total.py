@@ -1,5 +1,9 @@
 # tests/test_integracao_valor_total.py
 from services.produto_service import ProdutoService
+import pytest
+
+pytestmark = pytest.mark.integration
+
 
 def test_calculo_valor_total_com_integração():
     service = ProdutoService()

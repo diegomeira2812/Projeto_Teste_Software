@@ -28,3 +28,35 @@
 2025-11-12 01:29:15,950 - INFO - Produto 'Monitor' adicionado com sucesso.
 2025-11-12 01:29:16,147 - INFO - Produto 'HD Externo' adicionado com sucesso.
 2025-11-12 01:29:16,147 - INFO - Valor total do estoque calculado: R$ 9000.00
+2025-11-12 23:16:38,910 - INFO - Fornecedor 'Fornecedor ABC' cadastrado com sucesso.
+2025-11-12 23:16:39,062 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 23:16:39,579 - INFO - Produto 'Teclado' adicionado com sucesso.
+2025-11-12 23:16:39,660 - INFO - Produto 1 atualizado com nova quantidade: 15
+2025-11-12 23:16:39,768 - INFO - Produto 1 removido do sistema.
+2025-11-12 23:16:40,262 - INFO - Produto 'Monitor' adicionado com sucesso.
+2025-11-12 23:16:40,344 - INFO - Produto 'HD Externo' adicionado com sucesso.
+2025-11-12 23:16:40,345 - INFO - Valor total do estoque calculado: R$ 9000.00
+2025-11-12 23:21:48,979 - INFO - Fornecedor 'Fornecedor ABC' cadastrado com sucesso.
+2025-11-12 23:21:49,087 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 23:21:49,629 - INFO - Produto 'Teclado' adicionado com sucesso.
+2025-11-12 23:21:49,815 - INFO - Produto 1 atualizado com nova quantidade: 15
+2025-11-12 23:21:49,914 - INFO - Produto 1 removido do sistema.
+2025-11-12 23:21:50,356 - INFO - Fornecedor 'Fornecedor XYZ' cadastrado com sucesso.
+2025-11-12 23:21:50,755 - INFO - Fornecedor 'Fornecedor Link' cadastrado com sucesso.
+2025-11-12 23:21:50,840 - INFO - Produto 'Webcam' adicionado com sucesso.
+2025-11-12 23:21:51,272 - INFO - Fornecedor 'F1' cadastrado com sucesso.
+2025-11-12 23:21:51,388 - INFO - Produto 'Produto A' adicionado com sucesso.
+2025-11-12 23:21:51,489 - INFO - Produto 'Produto B' adicionado com sucesso.
+2025-11-12 23:21:51,589 - INFO - Produto 'Produto C' adicionado com sucesso.
+2025-11-12 23:21:52,257 - INFO - Produto 'Cabo USB' adicionado com sucesso.
+2025-11-12 23:21:52,430 - INFO - Produto 1 atualizado com nova quantidade: 8
+2025-11-12 23:21:52,531 - INFO - Produto 1 atualizado com nova quantidade: 3
+2025-11-12 23:21:52,999 - INFO - Produto 'SSD' adicionado com sucesso.
+2025-11-12 23:21:53,080 - INFO - Produto 'Fonte' adicionado com sucesso.
+2025-11-12 23:21:53,081 - INFO - Valor total do estoque calculado: R$ 850.00
+2025-11-12 23:21:53,548 - INFO - Produto 'Item X' adicionado com sucesso.
+2025-11-12 23:21:53,624 - INFO - Produto 'Item Y' adicionado com sucesso.
+2025-11-12 23:21:53,698 - INFO - Produto 1 removido do sistema.
+2025-11-12 23:21:54,106 - INFO - Produto 'Monitor' adicionado com sucesso.
+2025-11-12 23:21:54,183 - INFO - Produto 'HD Externo' adicionado com sucesso.
+2025-11-12 23:21:54,184 - INFO - Valor total do estoque calculado: R$ 9000.00

@@ -8,3 +8,55 @@
 2025-11-10 18:36:01,820 - INFO - Produto 'Lápis' adicionado com sucesso.
 2025-11-10 18:36:01,928 - INFO - Produto 'Caneta' adicionado com sucesso.
 2025-11-10 18:36:01,928 - INFO - Valor total do estoque calculado: R$ 600.00
+2025-11-12 01:22:33,756 - INFO - Fornecedor 'Papelaria Silva' cadastrado com sucesso.
+2025-11-12 01:22:34,573 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 01:22:34,793 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 01:22:35,190 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-12 01:22:35,284 - INFO - Produto 1 atualizado com nova quantidade: 80
+2025-11-12 01:22:35,589 - INFO - Produto 'Lápis' adicionado com sucesso.
+2025-11-12 01:22:35,684 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 01:22:35,685 - INFO - Valor total do estoque calculado: R$ 600.00
+2025-11-12 12:32:57,413 - INFO - Fornecedor 'Papelaria Silva' cadastrado com sucesso.
+2025-11-12 12:32:58,306 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 12:32:58,516 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 12:32:58,839 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-12 12:32:58,976 - INFO - Produto 1 atualizado com nova quantidade: 80
+2025-11-12 12:32:59,373 - INFO - Produto 'Lápis' adicionado com sucesso.
+2025-11-12 12:32:59,473 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 12:32:59,474 - INFO - Valor total do estoque calculado: R$ 600.00
+2025-11-12 22:27:46,885 - INFO - Fornecedor 'Papelaria Silva' cadastrado com sucesso.
+2025-11-12 22:27:47,744 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 22:27:47,911 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 22:27:48,185 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-12 22:27:48,277 - INFO - Produto 1 atualizado com nova quantidade: 80
+2025-11-12 22:27:48,594 - INFO - Produto 'Lápis' adicionado com sucesso.
+2025-11-12 22:27:48,686 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 22:27:48,687 - INFO - Valor total do estoque calculado: R$ 600.00
+2025-11-12 22:45:36,169 - INFO - Fornecedor 'Papelaria Silva' cadastrado com sucesso.
+2025-11-12 22:45:36,803 - INFO - Fornecedor 'Fornecedor X' cadastrado com sucesso.
+2025-11-12 22:45:41,638 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 22:45:41,889 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 22:45:42,188 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-12 22:45:42,305 - INFO - Produto 1 atualizado com nova quantidade: 80
+2025-11-12 22:45:42,639 - INFO - Produto 'Lápis' adicionado com sucesso.
+2025-11-12 22:45:42,772 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 22:45:42,773 - INFO - Valor total do estoque calculado: R$ 600.00
+2025-11-12 22:45:43,014 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 22:45:43,306 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 22:45:43,598 - INFO - Produto 999 atualizado com nova quantidade: 10
+2025-11-12 22:45:43,857 - INFO - Produto 999 removido do sistema.
+2025-11-12 22:45:44,048 - INFO - Valor total do estoque calculado: R$ 0.00
+2025-11-12 22:45:44,473 - INFO - Produto 'Cabo HDMI' adicionado com sucesso.
+2025-11-12 22:51:45,548 - INFO - Fornecedor 'Papelaria Silva' cadastrado com sucesso.
+2025-11-12 22:51:46,491 - INFO - Fornecedor 'Fornecedor X' cadastrado com sucesso.
+2025-11-12 22:51:51,443 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 22:51:51,660 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 22:51:52,010 - INFO - Produto 'Caderno' adicionado com sucesso.
+2025-11-12 22:51:52,118 - INFO - Produto 1 atualizado com nova quantidade: 80
+2025-11-12 22:51:52,510 - INFO - Produto 'Lápis' adicionado com sucesso.
+2025-11-12 22:51:52,627 - INFO - Produto 'Caneta' adicionado com sucesso.
+2025-11-12 22:51:52,628 - INFO - Valor total do estoque calculado: R$ 600.00
+2025-11-12 22:51:52,860 - WARNING - Tentativa de adicionar produto com valores inválidos.
+2025-11-12 22:51:53,235 - INFO - Produto 'Mouse' adicionado com sucesso.
+2025-11-12 22:51:54,070 - INFO - Valor total do estoque calculado: R$ 0.00
+2025-11-12 22:51:54,444 - INFO - Produto 'Cabo HDMI' adicionado com sucesso.

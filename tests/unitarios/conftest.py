@@ -1,40 +1,26 @@
 # tests/conftest.py
-import pytest
 import os
-import sqlite3
-from utils.db_connection import get_connection
+import pytest
+from utils.db_connection import DB_PATH
 
 @pytest.fixture(autouse=True)
 def limpar_banco():
-    """Recria o banco antes de cada teste sem forçar remoção enquanto está aberto."""
-    db_path = "stockmaster.db"
-
-    # Fecha conexões antes de apagar
-    try:
-        conn = sqlite3.connect(db_path)
-        conn.close()
-    except Exception:
-        pass
-
-    # Remove o arquivo se possível
-    if os.path.exists(db_path):
+    """
+    Limpa o banco de dados antes e depois de cada teste.
+    Garante que cada teste tenha um ambiente isolado e independente.
+    """
+    # Antes do teste — remove o banco se já existir
+    if os.path.exists(DB_PATH):
         try:
-            os.remove(db_path)
+            os.remove(DB_PATH)
         except PermissionError:
-            pass  # Em último caso, deixa o arquivo; as tabelas serão recriadas
+            pass  # Ignora se o arquivo estiver em uso momentaneamente
 
-    # Garante que o banco seja limpo
-    with get_connection() as conn:
-        cursor = conn.cursor()
-        cursor.execute("DROP TABLE IF EXISTS produtos")
-        cursor.execute("DROP TABLE IF EXISTS fornecedores")
-        conn.commit()
+    yield  # Aqui os testes são executados
 
-    yield
-
-    # Após o teste, tenta apagar novamente
-    try:
-        if os.path.exists(db_path):
-            os.remove(db_path)
-    except PermissionError:
-        pass
+    # Depois do teste — remove novamente
+    if os.path.exists(DB_PATH):
+        try:
+            os.remove(DB_PATH)
+        except PermissionError:
+            pass
